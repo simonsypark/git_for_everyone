@@ -1,0 +1,3 @@
+Title: Git for Everyone
+Subtitle : Hello how are you (working area)
+# working area(editor) - staging area(ready to commit, git tracked) - repository area (history saved)
