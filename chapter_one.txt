@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-something without endingSSS
-=======
 something without ending
->>>>>>> parent of a1641a0... change in master
